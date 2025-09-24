@@ -1,3 +1,11 @@
+// Compound intrest calculator in C
+
+/* 
+name:            Owuor Zephania Ulare
+Reg no:          PA106/G/29218/25
+description:     A C program to calculate compound intrest
+*/
+
 #include <stdio.h>
 #include <math.h>
 
